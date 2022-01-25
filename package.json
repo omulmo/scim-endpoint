@@ -1,0 +1,15 @@
+{
+  "name": "scim-endpoint",
+  "version": "1.0.0",
+  "description": "Sample SCIM endpoint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "olle.mulmo@omegapoint.se",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "uuid": "^8.3.2"
+  }
+}

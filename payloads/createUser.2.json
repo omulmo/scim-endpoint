@@ -1,0 +1,22 @@
+{
+    "schemas": [
+        "urn:ietf:params:scim:schemas:core:2.0:User",
+        "urn:ietf:params:scim:schemas:extension:enterprise:2.0:User"],
+    "externalId": "0bf1f0f2-8d2a-4f8e-bf98-7363c4aed4ef",
+    "userName": "test2",
+    "active": true,
+    "emails": [{
+        "primary": true,
+        "type": "home",
+        "value": "test2@example.com"
+    }],
+    "meta": {
+        "resourceType": "User"
+    },
+    "name": {
+        "formatted": "TestUser Two",
+        "familyName": "Two",
+        "givenName": "TestUser"
+    },
+    "roles": []
+}
